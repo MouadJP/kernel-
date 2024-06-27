@@ -1,0 +1,8 @@
+Created my own kernel calculation algorithms 
+自作のカーネル計算アルゴリズムを作成しました。
+
+
+
+
+
+
